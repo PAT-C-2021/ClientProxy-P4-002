@@ -1,0 +1,6 @@
+D:\semester 5 PAT\ClientProxy-P4-002\ClientProxy-P4-002\bin\Debug\ClientProxy-P4-002.exe.config
+D:\semester 5 PAT\ClientProxy-P4-002\ClientProxy-P4-002\bin\Debug\ClientProxy-P4-002.exe
+D:\semester 5 PAT\ClientProxy-P4-002\ClientProxy-P4-002\bin\Debug\ClientProxy-P4-002.pdb
+D:\semester 5 PAT\ClientProxy-P4-002\ClientProxy-P4-002\obj\Debug\ClientProxy-P4-002.csprojAssemblyReference.cache
+D:\semester 5 PAT\ClientProxy-P4-002\ClientProxy-P4-002\obj\Debug\ClientProxy-P4-002.exe
+D:\semester 5 PAT\ClientProxy-P4-002\ClientProxy-P4-002\obj\Debug\ClientProxy-P4-002.pdb
